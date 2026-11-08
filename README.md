@@ -5,7 +5,7 @@
 
 **Software Developer · Creative Thinker**
 
-### From Sketches to Syntax.
+<img src="./sketches-to-syntax.svg" alt="From Sketches to Syntax." width="420">
 
 *Code is another canvas.*
 
