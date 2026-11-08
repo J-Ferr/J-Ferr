@@ -1,106 +1,161 @@
-# Hello, World. I'm Jose! ✳️
 
-### 🎨 Code is another canvas.
+<div align="center">
+
+# Jose Armando Arellano Ferrara ✳️
+
+**Software Developer · Creative Thinker**
+
+### From Sketches to Syntax.
+
+*Code is another canvas.*
+
+A little imagination. A little logic. A lot of curiosity.
+
+[Portfolio](https://jaferrara.dev) · [LinkedIn](https://www.linkedin.com/in/jaaferrara/)
+
+</div>
+
+---
+
+## 🎨 A Little About Me
 
 I've always been drawn to creating things.
 
-Sometimes that means working with colors, sketches, and compositions. Other times, it's components, functions, and databases.
+Sometimes it's through colors, sketches, and compositions. Other times, it's through components, functions, and databases.
 
-To me, software development is another creative medium — a space where logic meets imagination, ideas become interactive, and problem-solving becomes part of the process.
+I'm a software developer with a background in retail leadership, bringing years of experience in problem-solving, collaboration, and adaptability into the world of technology.
 
-I'm a software developer who enjoys building thoughtful, functional, and visually engaging digital experiences.
+I enjoy building full-stack applications that balance functionality, thoughtful design, and a good user experience.
 
 **Different mediums. Same curiosity.**
 
 ---
 
-## 🧰 The Toolkit
+## 🛠️ My Developer Toolkit
 
-The technologies and tools I use to bring ideas to life.
-
-**Frontend**  
-JavaScript · React · HTML · CSS · Tailwind CSS
-
-**Backend**  
-Node.js · Express · Python
-
-**Databases**  
-PostgreSQL · SQL
-
-**Tools & Workflow**  
-Git · GitHub · Vite · VS Code · Postman
+| Area | Technologies |
+|---|---|
+| **Frontend** | JavaScript · React · HTML · CSS · Tailwind CSS |
+| **Backend** | Node.js · Express · Python |
+| **Databases** | PostgreSQL · SQL |
+| **Tools & Workflow** | Git · GitHub · Vite · VS Code · Postman |
+| **Concepts** | REST APIs · JWT Authentication · CRUD · Responsive Design · OOP |
 
 ---
 
-## ✨ Things I've Created
+## ✨ From Ideas to Applications
 
-A few projects where I've turned ideas into working applications.
+Every project is an opportunity to experiment, solve a problem, and learn something new.
 
-### 🌿 Mood Reflection App
+### 🌱 Mood Reflection App
 
-A full-stack application designed to make daily reflection more intentional. Users can track their moods, respond to reflection prompts, and explore personal insights over time.
+**A little space for reflection, built with code.**
 
-**Built with:** React · Node.js · Express · PostgreSQL
+A full-stack application where users can track daily moods, respond to reflection prompts, and explore insights from their entries.
 
-[View Repository](https://github.com/J-Ferr/mood-reflection-app) · [Live Application](https://mood-reflection-frontend.onrender.com)
+**Tech Stack:** React · Node.js · Express · PostgreSQL
+
+**Under the Hood:**
+- JWT-based user authentication
+- REST API for managing reflection entries
+- Mood tracking and editing functionality
+- Personal insights, streaks, and activity history
+- Responsive frontend interface
+
+[Live Application](https://mood-reflection-frontend.onrender.com) · [Source Code](https://github.com/J-Ferr/mood-reflection-app)
 
 ### ☑️ Task Manager App
 
-A productivity application that helps users organize tasks, manage priorities, and track progress through an intuitive interface.
+**Turning everyday chaos into something organized.**
 
-**Built with:** React · Node.js · Express · PostgreSQL
+A full-stack productivity application designed to help users manage tasks, priorities, and progress.
 
-[View Repository](https://github.com/J-Ferr/task-manager-app)
+**Tech Stack:** React · Node.js · Express · PostgreSQL
+
+**Under the Hood:**
+- Task and subtask management
+- JWT authentication and protected routes
+- Search, filtering, and sorting
+- Priority levels and due dates
+- Dashboard statistics and calendar features
+
+[Source Code](https://github.com/J-Ferr/task-manager-app)
 
 ### ⚙️ E-Commerce Backend API
 
-A RESTful backend application focused on authentication, role-based access control, and database-driven functionality.
+**The architecture behind the experience.**
 
-**Built with:** Node.js · Express · PostgreSQL
+A RESTful backend project focused on building secure, organized, and database-driven application functionality.
 
-[View Repository](https://github.com/J-Ferr/ecom-api)
+**Tech Stack:** Node.js · Express · PostgreSQL
+
+**Under the Hood:**
+- RESTful API architecture
+- JWT authentication and password hashing
+- Role-based access control
+- Relational database integration
+- Backend route organization
+
+[Source Code](https://github.com/J-Ferr/ecom-api)
 
 ### 💻 Developer Portfolio
 
-My personal corner of the internet, designed and developed to showcase my work, technical skills, and creative approach to development.
+**A home for my work, creativity, and growth.**
 
-**Built with:** React · JavaScript · Vite · CSS
+My personal website, built to showcase the applications I've developed and the skills I continue to strengthen.
 
-[View Repository](https://github.com/J-Ferr/dev-portfolio) · [Explore Portfolio](https://jaferrara.dev)
+**Tech Stack:** React · JavaScript · Vite · CSS
 
----
+**Highlights:**
+- Responsive layouts
+- Reusable React components
+- Custom animated CodeWave hero
+- Project showcase and contact section
+- Deployment through Vercel
 
-## 🌱 Currently Exploring
-
-I'm always finding new things to learn, build, and improve.
-
-- Deepening my understanding of frontend and backend development
-- Strengthening my Python skills through hands-on projects
-- Experimenting with creative interfaces and interactive experiences
-- Continuing my journey toward a professional career in software engineering
-
-I believe growth comes from staying curious, embracing challenges, and being willing to create something new.
+[Explore Website](https://jaferrara.dev) · [Source Code](https://github.com/J-Ferr/dev-portfolio)
 
 ---
 
-## 🌐 Beyond the Code
+## 🌿 The Learning Never Stops
 
-When I'm not writing code, you'll probably find me drawing, painting, experimenting with character designs, or exploring another creative idea.
+Right now, I'm focused on:
 
-Art and development might seem like different worlds, but I love how they both encourage experimentation, patience, and looking at problems from new perspectives.
+- Strengthening my frontend and backend engineering skills
+- Applying Python concepts through personal projects
+- Exploring thoughtful UI design and interactive experiences
+- Building projects that challenge me to think differently
+
+I'm always learning, experimenting, and refining my approach to development.
 
 ---
 
-## 🤝 Let's Connect
+## 🖌️ Beyond the Code
+
+When I'm not building applications, I'm probably sketching, painting, designing fantasy characters, or exploring another creative idea.
+
+Art has taught me patience, attention to detail, and the value of experimentation — qualities I carry into software development.
+
+I see both as different ways of bringing something imagined into existence.
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect
 
 I'm open to junior software engineering, frontend, and full-stack development opportunities.
 
 Whether it's collaborating on a project, exchanging ideas, or talking about technology and creativity, I'm always happy to connect.
 
-**🌐 Portfolio:** [jaferrara.dev](https://jaferrara.dev)  
-**💻 GitHub:** [J-Ferr](https://github.com/J-Ferr)
+**[Explore My Portfolio](https://jaferrara.dev)**
+
+**[View My LinkedIn](https://github.com/J-Ferr)**
 
 ---
 
 *Create. Experiment. Refine. Repeat.*
+
+</div>
+
 
